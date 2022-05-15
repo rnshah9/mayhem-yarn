@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-yarn
+target: yarn
+
+cmds:
+  - cmd: /repo/bin/yarn @@
+    filepath: /test.o
